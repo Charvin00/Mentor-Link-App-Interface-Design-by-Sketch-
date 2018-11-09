@@ -1,6 +1,7 @@
 # Mentor-Link-App-Interface-Design-by-Sketch
 I did this in a three people team, as the final project of the UX Design bootcamp class @ Code Berkeley. I was the team lead.
-Below is the road map we had for designing this app. Note this is just a Interface Design prototype, it was not functional or operational. 
+Below is the road map we had for designing this app. 
+#Note that this is just a Interface Design prototype, it was not functional or operational. 
 
 
 
