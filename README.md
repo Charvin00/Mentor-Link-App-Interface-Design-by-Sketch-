@@ -23,9 +23,9 @@ B) Mentors: 1) College/ university students studying in Tech fields. 2) Professi
 2) Go to app store
 3) Download the app
 4) Watch a video to learn about the app
-5) sign up
-6) go through the simple mentor selection process
-7) connect with mentor through chat
+5) Sign up
+6) Go through the simple mentor selection process
+7) Connect with mentor through chat
 
 # Where?
 
@@ -39,15 +39,18 @@ Most probably during their last year in highschool, close to the time that they 
 
 # Why?
 
-Emotions/Direction: The unknown brings fear and anxiety. The more a student knows about the available options, the less scary and more reachable they become. 
+# Emotions/Direction: 
+The unknown brings fear and anxiety. The more a student knows about the available options, the less scary and more reachable they become. 
 
 Most teenagers are already stressed out about what path they should follow after high to reach their ideal life in the future. Connecting with a mentor in their desired field can give them an overview of the mindset and lifestyle they are going to have if they pursue the path.
 
-Needs: There are lots of pressure on high schoolers during their last two years in high shcool. They should decide on the field that they want to continue their education in, they have to figure out which schools or courses to apply to and the deadlines to submit their application. Mentor link can speeden up the first two steps for them to be able to submit the applications on time.
+# Needs:
+There are lots of pressure on high schoolers during their last two years in high school. They should decide on the field that they want to continue their education in, they have to figure out which schools or courses to apply to and the deadlines to submit their application. Mentor link can speeden up the first two steps for them to be able to submit the applications on time.
 
-Perception: Talking to real people in their desired field can give them more perception of what their stepping into.
+# Perception: 
+Talking to real people in their desired field can give them more perception of what their stepping into.
 
-Awareness:
+# Awareness:
 
 Teacher- parent conferences
 Online/internet
@@ -55,7 +58,7 @@ School counseling
 School newspaper
 Flyers
 
-Motivation:
+# Motivation:
 Explore their field of interest more thoroughly
 Save time
 Find different options for pursuing a field in Tech
